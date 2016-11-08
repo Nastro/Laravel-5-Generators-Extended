@@ -14,7 +14,7 @@ L5 includes a bunch of generators out of the box, so this package only needs to 
 
 ## Usage
 
-### Step 1: Install Through Composer
+### Step 111111: Install Through Composer
 
 ```
 composer require laracasts/generators --dev
